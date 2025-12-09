@@ -14138,6 +14138,10 @@ a.btn svg {
     font-size: .875rem
 }
 
+.social-list {
+    text-align: center;
+}
+
 .social-list a {
     width: 38px;
     height: 38px;
@@ -14170,7 +14174,7 @@ a.btn svg {
 }
 
 .light-mode {
-    background: #fcfcfc;
+    background: #8c1515;
     color: #2d0a0a
 }
 
