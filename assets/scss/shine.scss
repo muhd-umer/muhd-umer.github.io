@@ -1,7 +1,7 @@
 /*************************** Theme Colours****************************/
 
 // Define theme colour scheme
-$theme-color-primary: #fe655c;
+$theme-color-primary: #8c1515;
 $theme-color-secondary: #629feb;
 $theme-text-color-primary: #d7dde9;
 $theme-text-color-secondary: #a5b3ce;
@@ -14,7 +14,7 @@ $theme-border-color: rgba($theme-text-color-primary, 0.1);
 $theme-error: #D9603C;
 
 // Light mode colour
-$theme-lightmode-bg: #faf8f5;
+$theme-lightmode-bg: #fcfcfc;
 $theme-lightmode-text-color-primary: #121822;
 $theme-lightmode-text-color-secondary: lighten($theme-lightmode-text-color-primary, 20%);
 $theme-lightmode-text-color-light: lighten($theme-lightmode-text-color-primary, 40%);
